@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 	[Ll]ibrary/
+=======
+[Ll]ibrary/
+>>>>>>> d7f92ee13517488c6ec883b821eec7b8553a7eaf
 [Tt]emp/
 [Oo]bj/
 [Bb]uild/
@@ -33,3 +37,4 @@ sysinfo.txt
 *.unitypackage
 # Crashlytics generated file
 Assets/StreamingAssets/crashlytics-build.properties
+
